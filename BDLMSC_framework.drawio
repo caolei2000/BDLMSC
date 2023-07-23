@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T08:49:46.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="ojL_TLYsl9Ju93cOOlbh" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T09:06:25.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="kii4K02XPHLPZuiThN-i" version="21.6.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1542" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="40" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ysqjjSb5tepzdiBI0oHy-46" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;$$\mathbf{S}_{(V-1,V)}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="20" height="20" as="geometry" />
+          <mxGeometry x="126" y="230" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ysqjjSb5tepzdiBI0oHy-47" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;$$\mathbf{...}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="115" y="250" width="20" height="20" as="geometry" />
@@ -339,6 +339,18 @@
         </mxCell>
         <mxCell id="ysqjjSb5tepzdiBI0oHy-181" value="$$\mathbf{L}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ysqjjSb5tepzdiBI0oHy-182" value="&lt;b&gt;Latent representation matrix in multi-view&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="278.07" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ysqjjSb5tepzdiBI0oHy-184" value="&lt;b&gt;Complementarity and consistency information&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ysqjjSb5tepzdiBI0oHy-185" value="&lt;b&gt;Complementarity and Consistency Adaptive&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="295" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ysqjjSb5tepzdiBI0oHy-186" value="&lt;b&gt;Clustering result&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="290" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
