@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T05:28:31.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="CDv2UKQsSvl1zngdvWe_" version="22.1.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-29T05:34:04.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="XUmbBFUAKaqVdDLOl9gc" version="22.1.15" type="github" pages="2">
   <diagram name="第 1 页" id="M7-LkV-x4vHUSKC98IDP">
     <mxGraphModel dx="524" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -5006,8 +5006,17 @@
         <mxCell id="spazAA5639LDAoItVP7T-12" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=11;strokeWidth=0;" vertex="1" parent="spazAA5639LDAoItVP7T-9">
           <mxGeometry x="11.941176470588234" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="spazAA5639LDAoItVP7T-13" value="$\mathbf{X}_1$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="79.75" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="spazAA5639LDAoItVP7T-13" value="$$\mathbf{X}_1$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="79" y="593" width="28" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="spazAA5639LDAoItVP7T-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;(Intensity)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="104" y="581" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spazAA5639LDAoItVP7T-16" value="$$\mathbf{X}_v$$&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="79.38" y="744" width="28" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="spazAA5639LDAoItVP7T-17" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;(Gabor)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="104.38" y="732" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
