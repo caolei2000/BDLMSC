@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T07:51:50.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JdwyrZnAgpDLO0hroEcJ" version="22.1.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-29T07:53:07.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hF-EobTLvroLuqM0DSoN" version="22.1.15" type="github" pages="2">
   <diagram name="第 1 页" id="M7-LkV-x4vHUSKC98IDP">
     <mxGraphModel dx="759" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2596,7 +2596,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VMG6cJipFmDm4Q1sdH_e" name="第 2 页">
-    <mxGraphModel dx="367" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="629" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5091,7 +5091,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="spazAA5639LDAoItVP7T-261" value="&lt;b&gt;Tensorized Bipartite Graph Learning&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="334" y="696" width="65" height="30" as="geometry" />
+          <mxGeometry x="335" y="696" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="spazAA5639LDAoItVP7T-263" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="294" y="751" width="10" height="72" as="geometry" />
