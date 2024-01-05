@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T03:32:38.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="vpTvSBClFRN0SXGmqs-m" version="22.1.15" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-05T03:35:14.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kTlF-FZBBTEK-gNDO_IW" version="22.1.15" type="github" pages="2">
   <diagram name="第 1 页" id="M7-LkV-x4vHUSKC98IDP">
     <mxGraphModel dx="1101" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -2596,7 +2596,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VMG6cJipFmDm4Q1sdH_e" name="第 2 页">
-    <mxGraphModel dx="536" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="446" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4379,12 +4379,6 @@
         <mxCell id="spazAA5639LDAoItVP7T-244" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Consensus Anchor Learning&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="188" y="753" width="82" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="spazAA5639LDAoItVP7T-251" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="142" y="711" as="sourcePoint" />
-            <mxPoint x="197" y="711" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="spazAA5639LDAoItVP7T-254" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="307" y="582" width="54" height="90" as="geometry" />
         </mxCell>
@@ -5094,7 +5088,7 @@
           <mxGeometry x="307" y="674" width="53" height="11" as="geometry" />
         </mxCell>
         <mxCell id="spazAA5639LDAoItVP7T-382" value="\(m\) anchors" style="text;strokeColor=none;fillColor=none;html=1;fontSize=9;fontStyle=0;verticalAlign=middle;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="135.5" y="696" width="70" height="10" as="geometry" />
+          <mxGeometry x="135.5" y="698" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="spazAA5639LDAoItVP7T-383" value="Joint Learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=9;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="259" y="691" width="80" height="20" as="geometry" />
@@ -5184,6 +5178,9 @@
         </mxCell>
         <mxCell id="nejErYiXAttea7uS0-Zi-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=14.27;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="157" y="783" width="133" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="nejErYiXAttea7uS0-Zi-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.52;dx=14.27;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="146.5" y="708" width="50" height="9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
