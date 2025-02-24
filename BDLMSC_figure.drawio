@@ -43,13 +43,13 @@
             <mxPoint x="375" y="279.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RZ6BmkIoWVPi_0JLIUEe-15" value="&lt;b&gt;视角 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RZ6BmkIoWVPi_0JLIUEe-15" value="&lt;b&gt;视图 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="291.65" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RZ6BmkIoWVPi_0JLIUEe-16" value="&lt;b&gt;视角 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RZ6BmkIoWVPi_0JLIUEe-16" value="&lt;b&gt;视图 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="515" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RZ6BmkIoWVPi_0JLIUEe-17" value="&lt;b&gt;隐空间&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RZ6BmkIoWVPi_0JLIUEe-17" value="&lt;b&gt;隐视图 H&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="409" y="330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
