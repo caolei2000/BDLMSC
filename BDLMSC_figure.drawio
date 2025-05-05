@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-1" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="335" y="85" width="90" height="20" as="geometry" />
+          <mxGeometry x="335" y="80" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-2" value="第一章 绪论" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="80" width="120" height="30" as="geometry" />
@@ -88,15 +88,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-11" value="研究现状" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="450" y="85" width="90" height="20" as="geometry" />
+          <mxGeometry x="490" y="80" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-16" value="（1）概述不同类型的多视图聚类方法；&lt;div&gt;（2）详细介绍与本文最相关的三类方法以及几篇最相关的工作，为后续所提算法做理论铺垫；&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="270" y="220" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="159" y="290" as="sourcePoint" />
-            <mxPoint x="700" y="290" as="targetPoint" />
+            <mxPoint x="160" y="290" as="sourcePoint" />
+            <mxPoint x="710" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-19" value="算法一，为解决问题（1）所提出" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -105,7 +105,7 @@
         <mxCell id="85eAo_XPrempcY4iMXUD-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="360" as="sourcePoint" />
-            <mxPoint x="745" y="360" as="targetPoint" />
+            <mxPoint x="710" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-21" value="第四章 所提算法二" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
@@ -116,15 +116,15 @@
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160.5" y="430" as="sourcePoint" />
-            <mxPoint x="745.5" y="430" as="targetPoint" />
+            <mxPoint x="160" y="430" as="sourcePoint" />
+            <mxPoint x="710" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-24" value="第五章 总结与展望" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="151" y="440" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="85eAo_XPrempcY4iMXUD-25" value="总结全文，并提出未来的进一步研究与改进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="290" y="470" width="270" height="30" as="geometry" />
+          <mxGeometry x="290" y="470" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
