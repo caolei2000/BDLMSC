@@ -60,6 +60,45 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="85eAo_XPrempcY4iMXUD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="85eAo_XPrempcY4iMXUD-1" target="85eAo_XPrempcY4iMXUD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-1" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="335" y="85" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-2" value="第一章 绪论" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-6" value="第二章 多视图聚类概述" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-7" value="第三章 所提算法一" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="294" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="180" as="sourcePoint" />
+            <mxPoint x="745" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-10" value="目前存在的两个问题：（1）信息表示的不足；（2）信息表示与复杂度的权衡；" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="85eAo_XPrempcY4iMXUD-11" target="85eAo_XPrempcY4iMXUD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-11" value="研究现状" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="450" y="85" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-16" value="（1）概述不同类型的多视图聚类方法；&lt;div&gt;（2）详细介绍与本文最相关的三类方法以及几篇最相关的工作，为后续所提算法做理论铺垫；&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="85eAo_XPrempcY4iMXUD-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="290" as="sourcePoint" />
+            <mxPoint x="735" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
